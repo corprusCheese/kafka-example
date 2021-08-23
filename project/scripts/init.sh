@@ -29,4 +29,6 @@ main() {
   runContainers
 }
 
+main
+
 
